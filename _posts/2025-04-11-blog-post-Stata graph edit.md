@@ -1,5 +1,5 @@
 ---
-title: 'Stata修图转代码'
+title: 'Stata graph edit'
 permalink: /posts/2025/04/blog-post-1/
 date: 2025-04-11
 tags:
