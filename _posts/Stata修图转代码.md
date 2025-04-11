@@ -1,11 +1,9 @@
 ---
 title: 'Stata修图转代码'
-permalink: /posts/Stata修图转代码
+permalink: /posts/2025/04/blog-post-1/
 date: 2025-04-11
 tags:
-  - cool posts
-  - category1
-  - category2
+  - .
 ---
 
 
