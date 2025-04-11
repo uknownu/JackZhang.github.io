@@ -17,7 +17,7 @@ I am very fortunate to be advised by [Prof. Li Teng](https://isbf.sysu.edu.cn/zh
 
 Now I have a wechat public account "鸭鸭不知所云". I often in the leisure time to update the content of the cutting-edge papers, Stata, Zotero, LaTeX and Markdown.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [JackZhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Contact Information
 =====
