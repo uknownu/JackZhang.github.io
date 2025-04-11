@@ -1,5 +1,6 @@
 ---
 title: 'Stata修图转代码'
+permalink: /posts/Stata修图转代码
 date: 2025-04-11
 tags:
   - cool posts
@@ -7,9 +8,9 @@ tags:
   - category2
 ---
 
-[Stata修图转代码](https://mp.weixin.qq.com/s/2E8R-I_6FLn7uTsh5L9Nag)
 
-# Stata修图转代码
+
+# [Stata修图转代码](https://mp.weixin.qq.com/s/2E8R-I_6FLn7uTsh5L9Nag}
 
 ## 适用场景
 今天用stata跑代码写论文遇到了一个问题：我在进行a安慰剂检验的时候，使用了陈强老师（2025）《管理世界》上开发的新命令didplacebo，代码大概是这样的：
@@ -33,7 +34,7 @@ grc1leg2 $main/result/Placebo_in-time_001.gph $main/result/Placebo_in-time_002.g
 由于对于stata来说，我们的手动DIY也相当于是给它派命令，所以手动DIY并不可怕，只要**【do文件可复现】** 就好了！
 
 通过bing搜索，我找到了这篇文章~
-https://czxb.github.io/ar/Stata%E4%BF%AE%E5%9B%BE%E4%B8%8E%E6%93%8D%E4%BD%9C%E8%AE%B0%E5%BD%95.html
+[Stata修图与操作记录](https://czxb.github.io/ar/Stata修图与操作记录.html)
 
 解决方案如下：
 - 首先运行
@@ -64,11 +65,4 @@ gr_edit .plotregion1.graph2.subtitle.text.Arrpush b. 0002
 
 **参考链接**
 https://czxb.github.io/ar/Stata修图与操作记录.html
-  
-## 回顾
 
-  - [Stata作图与疑惑](https://mp.weixin.qq.com/s/ss_zWytQF9aXOociwXSDlQ)
-  - [上次Stata疑问的一个解决办法](https://mp.weixin.qq.com/s/pY48Z9hv62WT45DyXQ2EaQ)
-  - [stata代码整理-画图](https://mp.weixin.qq.com/s/Ylr9QcIhI_Au4jDcthYlXA)
- -  [Stata数据清洗](https://mp.weixin.qq.com/s/oo_kWwCYeIfXWe_tqCQ7MA)
-  - [开心！引号的伤解决了！--02 解决的操作](https://mp.weixin.qq.com/s/pi-vBHk_B-PKGWIuTpaUsQ)
