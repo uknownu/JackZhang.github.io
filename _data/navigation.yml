@@ -9,7 +9,7 @@
 
 main:    
   - title: "CV"
-    url: /cv/
+    url: /cv.json/
     
   - title: "Blog Posts"
     url: /year-archive/
