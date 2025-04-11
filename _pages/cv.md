@@ -46,14 +46,14 @@ Awards
 Talks
 ======
 
-    * Fall 2024 - Workshop Presentation - Economics history paper "When beer is safer than water: Beer availability and mortality from waterborne illnesses" (Antman & Flynn,2024,JDE), explaining the empirical method and mechanisms.
-    * Fall 2024 - Workshop Presentation - Labor economics paper "The Long-Run Economic Consequences of High-Stakes Examinations: Evidence from Transitory Variation in Pollution" (Ebenstein et al.,2016, AEJAE).
-    * Summer 2024 - The 4th National Undergraduate Development Economics Paper Contest- "Is high-speed rail an expert in emissions reduction? A research based on recentered IV", working paper.
-    * Fall 2023 - Workshop Presentation - International trade information asymmetry paper "The value of reputation in trade: Evidence from Alibaba" (Chen & Wu, 2021, REStats), explaining the dynamic construction method of the reputation model and deriving the discrete choice model, Bayes' rule, and Bellman equation in the paper.
-    * Fall 2023 - Workshop Presentation - Peer effect paper "Peer quality and the academic benefits to attending better schools" (Hoekstra et al., 2018, JLaborE), explaining the assumptions of the fuzzy discontinuity model, identification, and the application of the stacked RDD method in identifying high school peer effects.
-    * Summer 2023 - Presentation on Econometrics II- Labor economics paper "Will studying economics make you rich？A regression discontinuity analysis of the returns to college major" (Bleemer & Mehta, 2022, AEJAE). 
-    * Fall 2022 - Workshop Presentation - Economics history paper "The Fractured-land Hypothesis" (Fernández et al., 2023, QJE), explaining the construction and derivation of dynamic simulation.
-    * Fall 2022 - Workshop Presentation - "How do friendships form?" (Marmaros & Sacerdote,2006,QJE).
+    * Fall 2024 - Workshop Presentation: Economics history paper "When beer is safer than water: Beer availability and mortality from waterborne illnesses" (Antman & Flynn,2024,JDE), explaining the empirical method and mechanisms.
+    * Fall 2024 - Workshop Presentation: Labor economics paper "The Long-Run Economic Consequences of High-Stakes Examinations: Evidence from Transitory Variation in Pollution" (Ebenstein et al.,2016, AEJAE).
+    * Summer 2024 - The 4th National Undergraduate Development Economics Paper Contest: "Is high-speed rail an expert in emissions reduction? A research based on recentered IV", working paper.
+    * Fall 2023 - Workshop Presentation: International trade information asymmetry paper "The value of reputation in trade: Evidence from Alibaba" (Chen & Wu, 2021, REStats), explaining the dynamic construction method of the reputation model and deriving the discrete choice model, Bayes' rule, and Bellman equation in the paper.
+    * Fall 2023 - Workshop Presentation: Peer effect paper "Peer quality and the academic benefits to attending better schools" (Hoekstra et al., 2018, JLaborE), explaining the assumptions of the fuzzy discontinuity model, identification, and the application of the stacked RDD method in identifying high school peer effects.
+    * Summer 2023 - Presentation on Econometrics II: Labor economics paper "Will studying economics make you rich？A regression discontinuity analysis of the returns to college major" (Bleemer & Mehta, 2022, AEJAE). 
+    * Fall 2022 - Workshop Presentation: Economics history paper "The Fractured-land Hypothesis" (Fernández et al., 2023, QJE), explaining the construction and derivation of dynamic simulation.
+    * Fall 2022 - Workshop Presentation: "How do friendships form?" (Marmaros & Sacerdote,2006,QJE).
 
 Service and leadership
 ======
