@@ -29,31 +29,6 @@ Github [Github](https://github.com/Zhangwj235)
 
 通讯地址：中国广东省珠海市唐家湾中山大学珠海校区。（邮政编码：519082）
 
-教育经历
-======
-主要课程
-------
-我的本科就读于中山大学国际金融学院，在本科三年级时专业分流至金融学专业。
-
-在四分制下，我目前的本科绩点是 4.0。在本科期间，我修读了以下课程：
-- 微观经济学（范里安，第九版）
-- 宏观经济学（多恩布什）
-- 计量经济学Ⅰ（斯托克&沃森）和计量经济学Ⅱ
-- 其他经济学课程，如发展经济学、城市经济学、劳动经济学等。
-- 金融专业课程，包括投资学、数字金融、国际金融等。
-- 我也接触过一些会计学和工商管理课程，包括公司金融、中级财务会计、公司治理、营销学、管理学原理等。
-
-获奖经历
-------
-- 中山大学优秀学生一等奖学金（2023 - 2024）、二等奖学金（2022 - 2023）
-- 我的保研论文在第四届全国大学生发展经济学论文大赛中获得一等奖（本科生组，2024年6月），在第二届全国国际经济学本科生学术论坛获得三等奖。
-
-学生工作
-------
-- 国金国际经济研究团队助研；云舟行劳动与环境经济学团队助研（2022.8 - ）
-- 担任计量经济学Ⅱ的助教（2024 学年第一学期）
-- 在本科期间，我曾担任学院学生会部门副部长、班级宣传委员。目前我在学院党政办公室担任学生助理。
-- 在参加学院的 “智导前行” 活动时，我用 LaTeX 整理了一些（1）范里安微观经济学、（2）计量经济学的学习资料。目前，我正在整理宏观经济学学习资料，以及自学时间序列分析的内容。
 
 专业技能
 =====
@@ -90,39 +65,3 @@ Contact Information
 [Github](https://github.com/Zhangwj235) 
 
 Correspondence Address: Sun Yat-sen University Zhuhai Campus, Tangjiawan, Zhuhai City, Guangdong Province, China. (Postal code: 519082)
-
-Education Experience
-======
-Major Courses
-------
-My undergraduate department is the International School of Business and Finance at Sun Yat-sen University, majoring in Finance. On a four-point scale, my current undergraduate GPA is 4.0. I have taken the following courses:
-
-Micro Economics (Varian, 9th Edition) 
-Macro Economics (Dornbusch)
-Econometics I  &  Econometics II
-Economics:  Development Economics, Urban Economics, Labor Economics...
-Finance: Investing, Digital Finance, International Finance...
-Accounting: Corporate Finance,  Intermediate Financial Accounting...
-Management: Management Principles, Corporate Governance, Marketing...
-
-Academic Awards
-------
-The First Prize Scholarship (2023-2024);  The Second Prize Scholarship (2022-2023)
-The First Prize of the Fourth National College Students' Development Economics Paper Contest.(undergraduate group, 2024.6)
-RA for International Economic Research Team; RA for Yunzhouxing labor and environmental economics team.(2022.8-)
-Serve as a teaching assistant for Econometrics II. (First semester of the 2024 academic year)
-
-Study Materials
-------
-while I was participating a peer tutoring program, I used LaTeX to organize (1) varian microeconomics and (2) econometrics, learning materials. At present, I am sorting out Macroeconomics study materials, and self-study the content of Time Series Analysis.
-
-Professional Skills
-=====
-I have to admit, my English is a little poor now. Last year,I took an IELT Exam, my score is 6.0. CET-6(540), CET-4(550) .
-
-Skilled applications of Stata, and used Rstudio, Matlab and Python before.
-I Usually organize my report with Markown or LaTeX.
-
-Internship Experience
-====
-Choosing an academic path is a choice I made after careful consideration. At least so far, I don't regret it. During my undergraduate years, I interned successively at the New Energy Research Group of Debon Securities (from July 2023 to October 2023), the Real Estate Research Group of Tianfeng Securities (from January 2024 to March 2024), the Investment Banking Committee of CITIC Securities (from March 2024 to June 2024), and the Bond Underwriting of GF Securities (from October 2024 to April 2025). These internships have enriched my undergraduate life, but currently I still prefer to choose the development path of academic pursuit.
