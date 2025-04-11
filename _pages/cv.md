@@ -22,6 +22,10 @@ Under the four-point system, my current undergraduate GPA is 4.0. During my unde
 * Financial professional courses including Investment, Digital Finance, International Finance, etc.
 * Accounting and Management courses including Corporate Finance, Intermediate Financial Accounting, Corporate Governance, Marketing, Principles of Management, etc.
 
+During my learning, I use Stata most. Sometimes I also use Rstudio, Matlab, and Python.
+In my freshman year of undergraduate studies, I participated in a competition of the School of Public Administration with my classmates using SPSS and won the third prize. But after coming into contact with econometrics, I turned to Stata.
+Usually, I organize my reports with Markown (VScode, Mdnice, Typora and Obsidian) or LaTeX (Overleaf). 
+
 Work experience
 ======
 * Fall 2024: Teaching Assistant
@@ -68,3 +72,7 @@ Service and leadership
 Internship Experience
 ======
 Choosing an academic path is a choice I made after careful consideration. At least so far, I don’t regret it. During my undergraduate years, I interned successively at the New Energy Research Group of Debon Securities (from July 2023 to October 2023), the Real Estate Research Group of Tianfeng Securities (from January 2024 to March 2024), the Investment Banking Committee of CITIC Securities (from March 2024 to June 2024), and the Bond Underwriting of GF Securities (from October 2024 to April 2025). These internships have enriched my undergraduate life, but currently I still prefer to choose the development path of academic pursuit.
+
+Some Imperfect Aspects
+========
+I have to admit, my English is a little poor now. Last year, I took an IELT Exam, my score is 6.0. I also took the College English Test Band 6 (with a score of 540) and the College English Test Band 4 (with a score of 550).
