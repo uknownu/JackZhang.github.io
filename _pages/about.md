@@ -23,7 +23,7 @@ redirect_from:
 
 联系信息
 =====
-电子邮箱 [E-mail](zhangwj235@mail2.sysu.edu.cn) 
+电子邮箱 E-mail：zhangwj235@mail2.sysu.edu.cn
 
 Github [Github](https://github.com/Zhangwj235) 
 
