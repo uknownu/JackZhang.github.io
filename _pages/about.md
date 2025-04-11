@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-您好！我是张文杰，欢迎访问我的个人主页！
+您好！
+
+我是张文杰，欢迎访问我的个人主页！
 
 我是[中山大学国际金融学院](https://isbf.sysu.edu.cn/)的大四本科生。
 
@@ -17,13 +19,13 @@ redirect_from:
 - 作为中山大学国金国际经济研究中心的助研，我在黄新飞教授的指导下开展过关于量化经济史的大学生创新项目。作为“飞哥团”的一员，我在黄新飞教授的团队中学习前沿文献。黄新飞教授和李腾教授在我的研究生推免过程中给予了我很多支持和帮助。
 - 现在我有一个微信公众号 “鸭鸭不知所云”。我经常在闲暇时间更新前沿论文、Stata、Zotero、LaTeX 和 Markdown 的内容。
 
-我的简历：[JackZhang 的个人简历](../assets/简历张文杰(学术).pdf)。
+我的简历：[Jack Zhang的个人简历](../assets/简历张文杰(学术).pdf)。
 
 联系信息
 =====
 电子邮箱 [E-mail](zhangwj235@mail2.sysu.edu.cn) 
 
-Github [Github](https://github.com/JackZhang) 
+Github [Github](https://github.com/Zhangwj235) 
 
 通讯地址：中国广东省珠海市唐家湾中山大学珠海校区。（邮政编码：519082）
 
@@ -77,7 +79,7 @@ Although my majority is Finance, I'm much more interest on Urban Econnomics. Als
 
 I am very fortunate to be advised by [Prof. Li Teng](https://isbf.sysu.edu.cn/zh-hans/teacher/271). I'm also very lucky to be a member of International Economic Research Center and being advised by [Prof. Huang Xinfei](https://isbf.sysu.edu.cn/zh-hans/teacher/249) I am very grateful that Prof. Huang Xinfei and Prof. Li Teng are willing to write recommendation letters for me during my postgraduate recommendation process. 
 
-Now I have a wechat public account "鸭鸭不知所云". I often in the leisure time to update the content of the cutting-edge papers, Stata, Zotero, LaTeX and Markdown.
+Now I have a wechat public account. I often in the leisure time to update the content of the cutting-edge papers, Stata, Zotero, LaTeX and Markdown.
 
 You can find my CV here: [JackZhang's Curriculum Vitae](../assets/简历张文杰(学术).pdf).
 
@@ -85,7 +87,7 @@ Contact Information
 =====
 [E-mail](zhangwj235@mail2.sysu.edu.cn) 
 
-[Github](https://github.com/JackZhang) 
+[Github](https://github.com/Zhangwj235) 
 
 Correspondence Address: Sun Yat-sen University Zhuhai Campus, Tangjiawan, Zhuhai City, Guangdong Province, China. (Postal code: 519082)
 
@@ -112,7 +114,7 @@ Serve as a teaching assistant for Econometrics II. (First semester of the 2024 a
 
 Study Materials
 ------
-while I was participating in the institute's “智导前行”, I used LaTeX to organize (1) varian microeconomics and (2) econometrics, learning materials. At present, I am sorting out Macroeconomics study materials, and self-study the content of Time Series Analysis.
+while I was participating a peer tutoring program, I used LaTeX to organize (1) varian microeconomics and (2) econometrics, learning materials. At present, I am sorting out Macroeconomics study materials, and self-study the content of Time Series Analysis.
 
 Professional Skills
 =====
