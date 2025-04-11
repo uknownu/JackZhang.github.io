@@ -48,10 +48,7 @@
       "startDate": "2021",
       "endDate": "2025",
       "gpa": 4.0,
-      "courses": [Microeconomics (Varian, 9th Edition), Macroeconomics (Dornbusch), 
-        Econometrics I (Stock & Watson) and Econometrics II (Angrist MHE) Development Economics, 
-        Urban Economics, Labor Economics, Investment, Digital Finance, International Finance, 
-        Corporate Finance, Intermediate Financial Accounting, Corporate Governance, Marketing]
+      "courses": []
     },
   ],
   "skills": [],
