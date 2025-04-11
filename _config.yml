@@ -26,7 +26,7 @@ author:
   name             : "Jack Zhang"
   pronouns         : # example: "she/her"  
   bio              : "A reg monkey"
-  location         : #"Earth"
+  location         : # "Earth"
   employer         : #"Sun Yat-sen University"
   uri              : # URL
   email            : "528728490@qq.com" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "uknownu"
+  github           : "https://github.com/uknownu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
