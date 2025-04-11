@@ -6,8 +6,6 @@ tags:
   - stata
 ---
 
-# Stata修图转代码
-
 微信公众号推文链接： [Stata修图转代码](https://mp.weixin.qq.com/s/2E8R-I_6FLn7uTsh5L9Nag)
 
 ## 适用场景
