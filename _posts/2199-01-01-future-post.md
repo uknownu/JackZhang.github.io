@@ -10,7 +10,9 @@ tags:
 
 
 
-# [Stata修图转代码](https://mp.weixin.qq.com/s/2E8R-I_6FLn7uTsh5L9Nag}
+# Stata修图转代码
+
+微信公众号推文链接： [Stata修图转代码](https://mp.weixin.qq.com/s/2E8R-I_6FLn7uTsh5L9Nag}
 
 ## 适用场景
 今天用stata跑代码写论文遇到了一个问题：我在进行a安慰剂检验的时候，使用了陈强老师（2025）《管理世界》上开发的新命令didplacebo，代码大概是这样的：
