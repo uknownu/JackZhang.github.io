@@ -46,7 +46,7 @@ You can find my CV here: [JackZhang's Curriculum Vitae](../assets/简历张文�
 
 Contact Information
 =====
-[E-mail](zhangwj235@mail2.sysu.edu.cn) 
+E-mail: zhangwj235@mail2.sysu.edu.cn 
 
 [Github](https://github.com/Zhangwj235) 
 
