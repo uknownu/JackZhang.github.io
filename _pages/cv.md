@@ -45,6 +45,7 @@ Awards
 
 Talks
 ======
+
     * Fall 2024 - Workshop Presentation - Economics history paper "When beer is safer than water: Beer availability and mortality from waterborne illnesses" (Antman & Flynn,2024,JDE), explaining the empirical method and mechanisms.
     * Fall 2024 - Workshop Presentation - Labor economics paper "The Long-Run Economic Consequences of High-Stakes Examinations: Evidence from Transitory Variation in Pollution" (Ebenstein et al.,2016, AEJAE).
     * Summer 2024 - The 4th National Undergraduate Development Economics Paper Contest- "Is high-speed rail an expert in emissions reduction? A research based on recentered IV", working paper.
