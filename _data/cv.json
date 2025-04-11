@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jack Zhang",
+    "email": "zhangwj235@mail2.sysu.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://Zhangwj235.github.io",
+    "summary": "Currently a student at Sun Yat-sen University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Zhangjiakou",
+      "countryCode": "130700",
       "region": ""
     },
     "profiles": [
@@ -33,32 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sun Yat-sen University",
+      "area": "Master in Applied Economics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "2028(expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sun Yat-sen University",
+      "area": "Bachelor in Finance",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": 4.0,
+      "courses": [Microeconomics (Varian, 9th Edition), Macroeconomics (Dornbusch), 
+        Econometrics I (Stock & Watson) and Econometrics II (Angrist MHE) Development Economics, 
+        Urban Economics, Labor Economics, Investment, Digital Finance, International Finance, 
+        Corporate Finance, Intermediate Financial Accounting, Corporate Governance, Marketing]
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
