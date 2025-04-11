@@ -1,49 +1,60 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to visit my homepage!  
 
-A data-driven personal website
+My name is Zhang Wenjie. I'm a fourth year undergraduate student from [International School of Business Finance](https://isbf.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am about to graduate from my undergraduate program and have been successfully admitted to the Master's program in Applied Economics (Academic Master). 
+
+Although my majority is Finance, I'm much more interest on Urban Econnomics. Also, I have some intersts on Econometics, Labor Economics, Environmental Economics and Economic History. 
+
+I am very fortunate to be advised by [Prof. Li Teng](https://isbf.sysu.edu.cn/zh-hans/teacher/271). I'm also very lucky to be a member of International Economic Research Center and being advised by [Prof. Huang Xinfei](https://isbf.sysu.edu.cn/zh-hans/teacher/249) I am very grateful that Prof. Huang Xinfei and Prof. Li Teng are willing to write recommendation letters for me during my postgraduate recommendation process. 
+
+Now I have a wechat public account "鸭鸭不知所云". I often in the leisure time to update the content of the cutting-edge papers, Stata, Zotero, LaTeX and Markdown.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+Contact Information
+=====
+[E-mail](528728490@qq.com) 
+
+[Github](https://github.com/JackZhang) 
+
+Correspondence Address: Sun Yat-sen University Zhuhai Campus, Tangjiawan, Zhuhai City, Guangdong Province, China. (Postal code: 519082)
+
+Education Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Major Courses
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My undergraduate department is the International School of Business and Finance at Sun Yat-sen University, majoring in Finance. On a four-point scale, my current undergraduate GPA is 4.0. I have taken the following courses:
 
-Create content & metadata
+Micro Economics (Varian, 9th Edition) 
+Macro Economics (Dornbusch)
+Econometics I  &  Econometics II
+Economics:  Development Economics, Urban Economics, Labor Economics...
+Finance: Investing, Digital Finance, International Finance...
+Accounting: Corporate Finance,  Intermediate Financial Accounting...
+Management: Management Principles, Corporate Governance, Marketing...
+
+Academic Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+The First Prize Scholarship (2023-2024);  The Second Prize Scholarship (2022-2023)
+The First Prize of the Fourth National College Students' Development Economics Paper Contest.(undergraduate group, 2024.6)
+RA for International Economic Research Team; RA for Yunzhouxing labor and environmental economics team.(2022.8-)
+Serve as a teaching assistant for Econometrics II. (First semester of the 2024 academic year)
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Study Materials
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+while I was participating in the institute's “智导前行”, I used LaTeX to organize (1) varian microeconomics and (2) econometrics, learning materials. At present, I am sorting out Macroeconomics study materials, and self-study the content of Time Series Analysis.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Professional Skills
+=====
+I have to admit, my English is a little poor now. Last year,I took an IELT Exam, my score is 6.0. CET-6(540), CET-4(550) .
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Skilled applications of Stata, and used Rstudio, Matlab and Python before.
+I Usually organize my report with Markown or LaTeX.
