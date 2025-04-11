@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jack Zhang / Personal Homepage"
+title                    : "JackZhang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Jack Zhang"
+name                     : &name "JackZhang"
 description              : &description "A reg monkey"
 url                      : https://JackZhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
