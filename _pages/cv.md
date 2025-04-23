@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Master in Applied Economics, Sun Yat-sen University, 2028 (expected)
-* Bachelor in Finance, GitHub University, 2025
+* Bachelor in Finance, Sun Yat-sen University, 2025
 
 Under the four-point system, my current undergraduate GPA is 4.0. During my undergraduate years, I took the following courses:
 * Microeconomics (Varian)
